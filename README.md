@@ -3,8 +3,13 @@
 
 # 💡**Change Location**
 
+・Items
+
+⇒"**Back 2 Basics texture**"
+
 ・Tools
 
 ⇒"**Back 2 Basics texture**" and "**Short SWORD**"
+
 
 # 💐**My deepest thanks to SmoothDude**
