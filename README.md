@@ -5,11 +5,14 @@
 
 ・Items
 
-⇒"**Back 2 Basics texture**"
+⇒"**Back 2 Basics(minecraft) texture**"
 
 ・Tools
 
-⇒"**Back 2 Basics texture**" and "**Short SWORD**"
+⇒"**Back 2 Basics(minecraft) texture**" and "**Short SWORD**"
 
+・entities
+
+⇒"**Back 2 Basics(minecraft) texture**"
 
 # 💐**My deepest thanks to SmoothDude**
