@@ -4,6 +4,7 @@
 💡**Change Location**
 
 ・Tools
-"**Back 2 Basics texture**" and "**Short SWORD**"
+
+⇒"**Back 2 Basics texture**" and "**Short SWORD**"
 
 💐**My deepest thanks to SmoothDude**
