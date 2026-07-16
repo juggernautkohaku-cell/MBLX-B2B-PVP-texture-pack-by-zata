@@ -9,10 +9,14 @@
 
 ・Tools
 
-⇒"**Back 2 Basics(minecraft) texture**" and "**Short SWORD**"
+⇒**Back 2 Basics(minecraft) texture** and **Short SWORD**
+
+・Ores
+
+⇒**Color outlines for each ore**
 
 ・entities
 
-⇒"**Back 2 Basics(minecraft) texture**"
+⇒**Back 2 Basics(minecraft) texture**
 
 # 💐**My deepest thanks to SmoothDude**
