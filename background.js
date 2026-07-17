@@ -45,7 +45,9 @@ const URL_MAP = {
   "||miniblox.*textures/entity/iron_golem/iron_golem.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/26.2/assets/minecraft/textures/entity/iron_golem/iron_golem.png",
   "||miniblox.*textures/entity/wolf/wolf.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/wolf/wolf.png",
   "||miniblox.*textures/entity/wolf/wolf_tame.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/wolf/wolf_tame.png",
-  "||miniblox.*textures/entity/wolf/wolf_angry.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/wolf/wolf_angry.png"
+  "||miniblox.*textures/entity/wolf/wolf_angry.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/wolf/wolf_angry.png",
+  "||miniblox.*textures/particle/heart.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/heart.png",
+  "||miniblox.*textures/entity/wolf/wolf_collar.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/wolf/wolf_collar.png"
 };
 
 
