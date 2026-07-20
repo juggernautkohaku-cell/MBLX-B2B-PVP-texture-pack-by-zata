@@ -2,6 +2,7 @@ const URL_MAP = {
   "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/miniblox-texture-pack/refs/heads/main/texture/miniblox-true-spritesheet-3.9.png",
   "||miniblox.*assets/default-DKNlYibk.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp-pack/refs/heads/main/DEBUG/default.png",
   "||miniblox.*assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
+  "||miniblox.*assets/index-CYUTi6m6.js": "https://github.com/ZataLove-JP-Kohaku/miniblox-texture-pack/blob/main/index-CYUTi6m6.js",
   "||miniblox.*textures/entity/chicken/chicken.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/entity/chicken.png",
   "||miniblox.*textures/entity/cow/cow.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/entity/cow.png",
   "||miniblox.*textures/entity/creeper/creeper.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/creeper.png",
