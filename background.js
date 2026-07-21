@@ -55,7 +55,9 @@ const URL_MAP = {
   "||miniblox.*textures/particle/effect_4.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/effect_4.png",
   "||miniblox.*textures/particle/effect_5.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/effect_5.png",
   "||miniblox.*textures/particle/effect_6.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/effect_6.png",
-  "||miniblox.*textures/particle/effect_7.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/effect_7.png"
+  "||miniblox.*textures/particle/effect_7.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/effect_7.png",
+  "||miniblox.*textures/environment/rain.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/environment/rain.png",
+  "||miniblox.*textures/environment/snow.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/environment/snow.png"
 };
 
 
