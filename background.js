@@ -62,7 +62,22 @@ const URL_MAP = {
   "||miniblox.*textures/particle/flame.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/flame.png",
   "||miniblox.*textures/particle/lava.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/lava.png",
   "||miniblox.*textures/particle/note.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/note.png",
-  "||miniblox.*textures/particle/soul_fire_flame.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/soul_fire_flame.png"
+  "||miniblox.*textures/particle/soul_fire_flame.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/soul_fire_flame.png",
+  "||miniblox.*textures/particle/explosion_1.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_1.png",
+"||miniblox.*textures/particle/explosion_2.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_2.png",
+"||miniblox.*textures/particle/explosion_3.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_3.png",
+"||miniblox.*textures/particle/explosion_4.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_4.png",
+"||miniblox.*textures/particle/explosion_5.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_5.png",
+"||miniblox.*textures/particle/explosion_6.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_6.png",
+"||miniblox.*textures/particle/explosion_7.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_7.png",
+"||miniblox.*textures/particle/explosion_8.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_8.png",
+"||miniblox.*textures/particle/explosion_9.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_9.png",
+"||miniblox.*textures/particle/explosion_10.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_10.png",
+"||miniblox.*textures/particle/explosion_11.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_11.png",
+"||miniblox.*textures/particle/explosion_12.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_12.png",
+"||miniblox.*textures/particle/explosion_13.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_13.png",
+"||miniblox.*textures/particle/explosion_14.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_14.png",
+"||miniblox.*textures/particle/explosion_15.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_15.png"
 };
 
 
