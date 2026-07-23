@@ -78,7 +78,20 @@ const URL_MAP = {
   "||miniblox.*textures/particle/explosion_13.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_13.png",
   "||miniblox.*textures/particle/explosion_14.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_14.png",
   "||miniblox.*textures/particle/explosion_15.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_15.png",
-  "||miniblox.*textures/entity/chest/normal_double.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/chest/normal_double.png"
+  "||miniblox.*textures/entity/chest/normal_double.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/chest/normal_double.png",
+  "||miniblox.*textures/entity/cat/all_black.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/all_black.png",
+  "||miniblox.*textures/entity/cat/black.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/black.png",
+  "||miniblox.*textures/entity/cat/british_shorthair.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/british_shorthair.png",
+  "||miniblox.*textures/entity/cat/calico.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/calico.png",
+  "||miniblox.*textures/entity/cat/cat_collar.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/cat_collar.png",
+  "||miniblox.*textures/entity/cat/jellie.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/jellie.png",
+  "||miniblox.*textures/entity/cat/ocelot.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/ocelot.png",
+  "||miniblox.*textures/entity/cat/persian.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/persian.png",
+  "||miniblox.*textures/entity/cat/ragdoll.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/ragdoll.png",
+  "||miniblox.*textures/entity/cat/red.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/red.png",
+  "||miniblox.*textures/entity/cat/siamese.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/siamese.png",
+  "||miniblox.*textures/entity/cat/tabby.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/tabby.png",
+  "||miniblox.*textures/entity/cat/white.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/white.png"
 };
 
 
